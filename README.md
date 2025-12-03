@@ -25,3 +25,6 @@ node path/to/your-script.js
 
 4. Follow the instructions in the terminal to input data if needed.
 
+## Author
+
+[Hugo Helluy](https://github.com/Hgusoh)
